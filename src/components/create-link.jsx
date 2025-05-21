@@ -118,7 +118,7 @@ function CreateLink() {
         />
         {errors.longUrl && <Error message={errors.longUrl} />}
         <div className="flex items-center gap-2">
-          <Card className="p-2">trimrr.vercel.app</Card> /
+          <Card className="p-2">trimrr1234.vercel.app</Card> /
           <Input
             id="customUrl"
             placeholder="Custom Link (optional)"
